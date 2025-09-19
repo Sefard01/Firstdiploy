@@ -1,0 +1,20 @@
+{
+  "name": "nexclub",
+  "version": "1.0.0",
+  "description": "events, mini hackthons",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "events",
+    "user",
+    "hackthons"
+  ],
+  "author": "himanshu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
